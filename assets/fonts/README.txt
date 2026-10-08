@@ -1,0 +1,1 @@
+![Avatar da Jessica](./assets/images/avatar-jessica.jpeg)
